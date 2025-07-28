@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@angular/core": "^20.1.2",
+    "@types/node": "^24.0.15"
+  }
+}
